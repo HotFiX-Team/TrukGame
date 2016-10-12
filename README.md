@@ -1,2 +1,0 @@
-# TrukGame
-GameSoftUni
